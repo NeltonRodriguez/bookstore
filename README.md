@@ -1,1 +1,1 @@
-Sistema de Librería desarrollado en Kotlin. Enfoque: Web
+Sistema de Librería desarrollado en SpringBoot (Kotlin).
